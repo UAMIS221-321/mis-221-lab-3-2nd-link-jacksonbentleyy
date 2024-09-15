@@ -1,0 +1,15 @@
+/Users/jacksonbentley/Documents/codingProjects/MIS221/Labs/mis-221-lab-3-2nd-link-jacksonbentleyy/bin/Debug/net8.0/mis-221-lab-3-jacksonbentleyy
+/Users/jacksonbentley/Documents/codingProjects/MIS221/Labs/mis-221-lab-3-2nd-link-jacksonbentleyy/bin/Debug/net8.0/mis-221-lab-3-jacksonbentleyy.deps.json
+/Users/jacksonbentley/Documents/codingProjects/MIS221/Labs/mis-221-lab-3-2nd-link-jacksonbentleyy/bin/Debug/net8.0/mis-221-lab-3-jacksonbentleyy.runtimeconfig.json
+/Users/jacksonbentley/Documents/codingProjects/MIS221/Labs/mis-221-lab-3-2nd-link-jacksonbentleyy/bin/Debug/net8.0/mis-221-lab-3-jacksonbentleyy.dll
+/Users/jacksonbentley/Documents/codingProjects/MIS221/Labs/mis-221-lab-3-2nd-link-jacksonbentleyy/bin/Debug/net8.0/mis-221-lab-3-jacksonbentleyy.pdb
+/Users/jacksonbentley/Documents/codingProjects/MIS221/Labs/mis-221-lab-3-2nd-link-jacksonbentleyy/obj/Debug/net8.0/mis-221-lab-3-jacksonbentleyy.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jacksonbentley/Documents/codingProjects/MIS221/Labs/mis-221-lab-3-2nd-link-jacksonbentleyy/obj/Debug/net8.0/mis-221-lab-3-jacksonbentleyy.AssemblyInfoInputs.cache
+/Users/jacksonbentley/Documents/codingProjects/MIS221/Labs/mis-221-lab-3-2nd-link-jacksonbentleyy/obj/Debug/net8.0/mis-221-lab-3-jacksonbentleyy.AssemblyInfo.cs
+/Users/jacksonbentley/Documents/codingProjects/MIS221/Labs/mis-221-lab-3-2nd-link-jacksonbentleyy/obj/Debug/net8.0/mis-221-lab-3-jacksonbentleyy.csproj.CoreCompileInputs.cache
+/Users/jacksonbentley/Documents/codingProjects/MIS221/Labs/mis-221-lab-3-2nd-link-jacksonbentleyy/obj/Debug/net8.0/mis-221-lab-3-jacksonbentleyy.sourcelink.json
+/Users/jacksonbentley/Documents/codingProjects/MIS221/Labs/mis-221-lab-3-2nd-link-jacksonbentleyy/obj/Debug/net8.0/mis-221-lab-3-jacksonbentleyy.dll
+/Users/jacksonbentley/Documents/codingProjects/MIS221/Labs/mis-221-lab-3-2nd-link-jacksonbentleyy/obj/Debug/net8.0/refint/mis-221-lab-3-jacksonbentleyy.dll
+/Users/jacksonbentley/Documents/codingProjects/MIS221/Labs/mis-221-lab-3-2nd-link-jacksonbentleyy/obj/Debug/net8.0/mis-221-lab-3-jacksonbentleyy.pdb
+/Users/jacksonbentley/Documents/codingProjects/MIS221/Labs/mis-221-lab-3-2nd-link-jacksonbentleyy/obj/Debug/net8.0/mis-221-lab-3-jacksonbentleyy.genruntimeconfig.cache
+/Users/jacksonbentley/Documents/codingProjects/MIS221/Labs/mis-221-lab-3-2nd-link-jacksonbentleyy/obj/Debug/net8.0/ref/mis-221-lab-3-jacksonbentleyy.dll
